@@ -1,7 +1,5 @@
 # ui.py
-# Chloe Fabro
-# xfabro@uci.edu
-# 85968044
+
 
 
 from pathlib import Path
